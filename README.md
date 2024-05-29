@@ -1,5 +1,10 @@
 # 1m_proto
 
+Ver. mini052901
+
+- MVP 사이트 개발 시작!!!
+- 한 달 단위로, 사람을 모으는 것이 목적!
+
 ## Project setup
 ```
 npm install
