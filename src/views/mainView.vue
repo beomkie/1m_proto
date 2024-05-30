@@ -25,6 +25,7 @@ export default {
     methods: {
         goToaddGoal() {
             return this.$router.push('/login')
+            //로그인이 아니라 실제로 제작할 수 있도록 하고 마지막 생성하기에서 로그인 시키기. Vuex 저장 유지 가능?
         }
     }
 }
