@@ -105,25 +105,25 @@ export default {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 12vh;
+    height: 15vh;
 }
 .menu-box {
     display: flex;
     align-items: center;
-    margin-right: 5vw;
+    margin-right: 1vw;
 }
 .menu-style {
     padding: 2vh;
 }
 .menu-style h3 {
     cursor: pointer;
-    font-size: 1.4vh;
+    font-size: 1.5vh;
 }
 .logo-container {
     margin-left: 3vw;
 }
 .logo-photo {
-    width: 9vw;
+    width: 35vw;
     cursor: pointer;
 }
 </style>

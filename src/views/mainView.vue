@@ -37,15 +37,11 @@ export default {
     align-items: center;
     justify-content: center;
 }
-.main-container h1 {
-    font-size: 2vh;
-    color: red;
-}
 .topic-style {
     margin-top: 17vh;
 }
 .topic-style p {
-    font-size: 3.4vh;
+    font-size: 2vh;
     color: #0b0b0b;
     font-weight: bold;
 }
